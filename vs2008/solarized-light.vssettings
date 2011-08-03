@@ -136,7 +136,7 @@
 							<Item Name="SQL DML Marker" Foreground="0x00D28B26" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Stale Code" Foreground="0x008236D3" Background="0x02000000" BoldFont="No"/>
 							<Item Name="String" Foreground="0x0098A12A" Background="0x02000000" BoldFont="No"/>
-							<Item Name="String(C# @ Verbatim)" Foreground="0x0098A12A" Background="0x00D5E8EE" BoldFont="No"/>
+							<Item Name="String(C# @ Verbatim)" Foreground="0x0098A12A" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Syntax Error" Foreground="0x002F32DC" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Task List Shortcut" Foreground="0x00363000" Background="0x00D28B26" BoldFont="No"/>
 							<Item Name="Track Changes after save" Foreground="0x02000000" Background="0x00009985" BoldFont="No"/>
